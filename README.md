@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello there 👋
 
+I'm a computer science student at the University of Udine. I know I still have a lot to learn, but with passion, creativity, and curiosity, I'm confident I can achieve great things.
+
+I use neovim btw
 <!--
 **Seagull2004/Seagull2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
